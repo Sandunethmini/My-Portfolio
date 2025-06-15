@@ -89,7 +89,7 @@ export default function Home() {
               initial="hidden"
               animate="visible"
               whileHover={{ scale: 1.2 }}
-              href="https://github.com/Sandunethmini"
+              href="#https://github.com/Sandunethmini"
               className="text-cyan-400 hover:text-white"
             >
               <div className="flex items-center justify-center w-10 h-10 border-2 rounded-full border-cyan-400">
