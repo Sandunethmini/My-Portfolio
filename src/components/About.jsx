@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div id="about" className="min-h-screen flex items-center justify-center relative flex items-center min-h-screen overflow-hidden bg-[radial-gradient(circle,rgba(238,174,202,1)_0%,rgba(148,187,233,1)_100%)]">
+    <div id="about" className="min-h-screen flex items-center justify-center relative flex items-center min-h-screen overflow-hidden bg-[radial-gradient(circle,rgba(238,174,202,1)_0%,rgba(148,187,233,1)_100%)] font-poppins">
       {/* Decorative Blobs */}
       <div className="absolute top-0 left-0 bg-green-400 rounded-full w-80 h-80 opacity-30 filter blur-3xl animate-pulse"></div>
       <div className="absolute bottom-0 right-0 bg-green-300 rounded-full w-96 h-96 opacity-20 filter blur-3xl animate-pulse"></div>
