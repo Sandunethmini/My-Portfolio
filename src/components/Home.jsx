@@ -62,7 +62,7 @@ export default function Home() {
               initial="hidden"
               animate="visible"
               whileHover={{ scale: 1.2 }}
-              href="#https://web.facebook.com/sandu.nethmini.16"
+              href="https://web.facebook.com/sandu.nethmini.16"
               className="text-cyan-400 hover:text-white"
             >
               <div className="flex items-center justify-center w-10 h-10 border-2 rounded-full border-cyan-400">
@@ -75,7 +75,7 @@ export default function Home() {
               initial="hidden"
               animate="visible"
               whileHover={{ scale: 1.2 }}
-              href="#www.linkedin.com/in/sanduni-nethmini-b707b4305"
+              href="www.linkedin.com/in/sanduni-nethmini-b707b4305"
               className="text-cyan-400 hover:text-white"
             >
               <div className="flex items-center justify-center w-10 h-10 border-2 rounded-full border-cyan-400">
@@ -89,7 +89,7 @@ export default function Home() {
               initial="hidden"
               animate="visible"
               whileHover={{ scale: 1.2 }}
-              href="#https://github.com/Sandunethmini"
+              href="https://github.com/Sandunethmini"
               className="text-cyan-400 hover:text-white"
             >
               <div className="flex items-center justify-center w-10 h-10 border-2 rounded-full border-cyan-400">
