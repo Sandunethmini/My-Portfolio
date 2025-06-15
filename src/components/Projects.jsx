@@ -13,7 +13,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'A personal portfolio website showcasing projects, skills, and contact information.',
     tech: 'React, TailwindCSS',
-    github: 'https://github.com/username/project-two',
+    github: 'https://github.com/Sandunethmini/My-Portfolio.git',
     image: 'gallery2.png'
   },
   {
