@@ -14,7 +14,7 @@ const projects = [
     title: 'Library Management System',
     description: 'Library Management System using Java',
     tech: 'Java',
-    github: 'https://github.com/username/project-one',
+    github: 'https://github.com/Sandunethmini/Library-Management-System-Using-Java.git',
     image: 'gallery1.jpg'
   },
   
