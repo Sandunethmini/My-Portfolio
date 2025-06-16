@@ -2,20 +2,22 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const projects = [
-  {
-    title: 'Task Manager App',
-    description: 'A web app for task management.',
-    tech: 'React, Node.js',
-    github: 'https://github.com/username/project-one',
-    image: 'gallery1.jpg'
-  },
-  {
+   {
     title: 'Portfolio Website',
     description: 'A personal portfolio website showcasing projects, skills, and contact information.',
     tech: 'React, TailwindCSS',
     github: 'https://github.com/Sandunethmini/My-Portfolio.git',
     image: 'gallery2.png'
   },
+  
+  {
+    title: 'Library Management System',
+    description: 'Library Management System using Java',
+    tech: 'Java',
+    github: 'https://github.com/username/project-one',
+    image: 'gallery1.jpg'
+  },
+  
   {
     title: 'Weather App',
     description: 'Weather app using API integration.',
